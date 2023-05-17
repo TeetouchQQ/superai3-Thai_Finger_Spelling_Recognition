@@ -1,5 +1,4 @@
 # superai3-Thai_Finger_Spelling_Recognition
-Hackathon Online: Thai Finger Spelling Recognition
 Hackathon Online: Thai Finger Spelling Recognition is a part of the Super AI Engineer Season 3 Online Hackathon. The objective of this hackathon is to solve an image classification problem related to finger spellingg that have 20 classes.
 <br/>
 ![alt text](head.png)
